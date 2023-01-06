@@ -18,6 +18,8 @@ To get the data from twitter, you need a twitter developer account.
 
 https://developer.twitter.com/en/support/twitter-api/developer-account
 
-With that account, you can have access to the last 7 days of tweets using this endpoint 'https://api.twitter.com/2/tweets/search/recent'.
+With that account, you can have access to the last 7 days of tweets using this endpoint -> https://api.twitter.com/2/tweets/search/recent.
 
-To access more tweets and go back more than 7 days, you need Academic Research account. If you have, you can use the endpoint below to get the data 'https://api.twitter.com/2/tweets/search/all'.
+To access more tweets and go back more than 7 days, you need Academic Research account. If you have, you can use the endpoint below to get the data -> https://api.twitter.com/2/tweets/search/all.
+
+In the code, the endpoint is set to academic research -> https://api.twitter.com/2/tweets/search/all.
