@@ -22,4 +22,4 @@ With that account, you can have access to the last 7 days of tweets using this e
 
 To access more tweets and go back more than 7 days, you need Academic Research account. If you have, you can use the endpoint below to get the data -> https://api.twitter.com/2/tweets/search/all.
 
-In the code, the endpoint is set to academic research -> https://api.twitter.com/2/tweets/search/all.
+In the code, the endpoint is defaultly set to academic research version -> https://api.twitter.com/2/tweets/search/all.
