@@ -1,0 +1,23 @@
+Source;Target;Label;Weight
+1;2;Lejla – Antonela;8
+1;3;Lejla – Sulejman;11
+1;4;Lejla – Maja;13
+1;5;Lejla – Lejla S.;11
+1;11;Lejla – Asmira;12
+1;12;Lejla – Amira ;8
+1;15;Lejla – Ena;6
+2;3;Antonela – Sulejman;6
+2;4;Antonela – Maja;8
+3;4;Sulejman – Maja;9
+5;6;Lejla S. - Amina;18
+5;7;Lejla S – Ilma;18
+3;8;Sulejman – Nenad;4
+4;9;Maja – Selma;13
+4;10;Maja – Naida;9
+9;10;Naida – Selma;30
+3;9;Sulejman – Selma;13
+11;12;Asmira – Amira;16
+6;7;Amina – Ilma;18
+11;13;Asmira – Azra;16
+12;13;Amira – Azra;16
+11;14;Asmira – Sneza;5
